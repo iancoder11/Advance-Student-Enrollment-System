@@ -1,7 +1,3 @@
-Free Download Source Code "Advance Student Enrollment System Project"
-
-FIRST Download
-
 1.XAMPP
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
@@ -24,3 +20,4 @@ FIRST Download
 
 Username: test12345
 Password: 123456789
+
